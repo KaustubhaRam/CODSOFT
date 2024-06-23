@@ -1,0 +1,3 @@
+[submodule "titanic_survival_prediction"]
+	path = titanic_survival_prediction
+	url = https://github.com/KaustubhaRam/titanic_survival_prediction.git
