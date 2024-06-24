@@ -1,3 +1,6 @@
 [submodule "titanic_survival_prediction"]
 	path = titanic_survival_prediction
 	url = https://github.com/KaustubhaRam/titanic_survival_prediction.git
+[submodule "movie_rating_prediction"]
+	path = movie_rating_prediction
+	url = https://github.com/KaustubhaRam/movie_rating_prediction
