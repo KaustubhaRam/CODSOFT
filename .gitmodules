@@ -4,3 +4,6 @@
 [submodule "movie_rating_prediction"]
 	path = movie_rating_prediction
 	url = https://github.com/KaustubhaRam/movie_rating_prediction
+[submodule "iris_classification"]
+	path = iris_classification
+	url = https://github.com/KaustubhaRam/iris_classification.git
