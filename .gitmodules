@@ -7,3 +7,9 @@
 [submodule "iris_classification"]
 	path = iris_classification
 	url = https://github.com/KaustubhaRam/iris_classification.git
+[submodule "sales_prediction"]
+	path = sales_prediction
+	url = https://github.com/KaustubhaRam/sales_prediction.git
+[submodule "credit_card_fraud_detection"]
+	path = credit_card_fraud_detection
+	url = https://github.com/KaustubhaRam/credit_card_fraud.git
